@@ -1,4 +1,4 @@
-# ✅ Method 1: Create DynamoDB Table from AWS Console (Easy Way)
+# ✅ Method 1: Create DynamoDB Table from AWS Console
 ## Step 1️⃣ – Login to AWS
 
 Go to aws.amazon.com
@@ -74,7 +74,7 @@ Click Save
 
 Done ✅
 
-# ✅ Method 2: Create DynamoDB Using AWS CLI (Optional Advanced)
+# ✅ Method 2: Create DynamoDB Using AWS CLI
 
 If you have AWS CLI installed:
 
