@@ -91,11 +91,11 @@ This helps store multiple orders for the same user.
 
 ## Why is DynamoDB Powerful?
 
-✅ Very fast (single-digit milliseconds response time)
-✅ Automatically scales up or down
-✅ Fully managed by AWS
-✅ Secure
-✅ High availability (data stored in multiple locations)
+- ✅ Very fast (single-digit milliseconds response time)
+- ✅ Automatically scales up or down
+- ✅ Fully managed by AWS
+- ✅ Secure
+- ✅ High availability (data stored in multiple locations)
 
 # ✅ Method 1: Create DynamoDB Table from AWS Console
 ## Step 1️⃣ – Login to AWS
